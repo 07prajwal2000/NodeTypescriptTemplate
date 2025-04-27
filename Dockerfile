@@ -1,4 +1,4 @@
-ARG IMAGE_NAME=node:18.12.1-alpine
+ARG IMAGE_NAME=node:20.17.1-alpine
 
 FROM ${IMAGE_NAME} AS base
 
