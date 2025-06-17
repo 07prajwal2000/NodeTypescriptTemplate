@@ -7,6 +7,6 @@ export default defineConfig({
       reportsDirectory: './coverage'
     },
     watch: false,
-    dir: './tests',
+    dir: './',
   }
 });
